@@ -37,7 +37,7 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
+/* */
 #wrapper{
     box-sizing: border-box;
     margin: auto;
@@ -49,7 +49,6 @@ table {
     font-size: 10px/3;
     padding: 50px;
 }
-
 h1, h2, h3{
     font-weight: bold;
     display: flex;
