@@ -59,7 +59,7 @@ footer {
   margin-top: 50px;
   text-align: center;
 }
-li {
+ul li :not(:last-of-type) {
   margin-bottom: 8px;
 }
 a {
